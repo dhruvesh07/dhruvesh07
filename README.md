@@ -1,415 +1,363 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f051d,31105c,4c1d95,6d28d9,7c3aed,4f46e5&height=230&section=header&text=DHRUVESH%20DABHADE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20%26%20AI/ML%20Systems%20Engineer&descSize=17&descAlignY=62" width="100%" alt="Dhruvesh Dabhade Header Banner"/>
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=DHRUVESH%20DABHADE&fontSize=60&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-  <br />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+%7C+Cloud+%7C+Product+Engineering;Building+Scalable+%2C+Intelligent+Systems;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+</a>
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Distributed+Systems+%26+Cloud-Native+Architecture;Generative+AI+%26+Large-Scale+LLM+Inference;High-Performance+Full-Stack+Product+Engineering;Building+Resilient%2C+Low-Latency+Enterprise+Platforms" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br /><br />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-7C3AED?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white" />
 
-  <!-- Header Badges Row 1: Academic & Location -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Degree-M.S._in_Computer_Science-4C1D95?style=flat-square&logo=academicons&logoColor=purple&labelColor=0F051D" alt="Education" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Institution-Stanford_University-6D28D9?style=flat-square&logo=google-academic&logoColor=white&labelColor=0F051D" alt="University" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-San_Francisco%2C_CA-7C3AED?style=flat-square&logo=google-maps&logoColor=red&labelColor=0F051D" alt="Location" />
-  </a>
+<br/><br/>
 
-  <br />
+<a href="http://dhruvex.wuaze.com">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/dhruvesh07">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dabhadedhruvesh007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/dhruvesh07">
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <!-- Header Badges Row 2: Action Buttons & Socials -->
-  <a href="http://dhruvex.wuaze.com">
-    <img src="https://img.shields.io/badge/Portfolio-dhruvex.wuaze.com-4F46E5?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0F051D" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/dhruvesh07">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhruvesh_Dabhade-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0F051D" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dabhadedhruvesh007@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dabhadedhruvesh007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0F051D" alt="Email" />
-  </a>
-  <a href="https://github.com/dhruvesh07">
-    <img src="https://img.shields.io/badge/GitHub-dhruvesh07-181717?style=flat-square&logo=github&logoColor=white&labelColor=0F051D" alt="GitHub" />
-  </a>
+<br/><br/>
 
-  <br />
-
-  <!-- Header Badges Row 3: Stats Badges -->
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=dhruvesh07&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/dhruvesh07?tab=followers">
-    <img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&logo=github&color=7c3aed&labelColor=0f051d&label=FOLLOWERS" alt="Followers" />
-  </a>
-  <a href="https://github.com/dhruvesh07?tab=stars">
-    <img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&logo=github&color=6366f1&labelColor=0f051d&label=TOTAL+STARS" alt="Total Stars" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=8b5cf6&label=Profile+Views" />
+<img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&color=7c3aed&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&color=6d28d9&label=Stars&logo=github" />
 
 </div>
 
-<br />
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+---
 
-## ⚡ About Me
+## 🧬 About Me
 
+```yaml
+name: "Dhruvesh Dabhade"
+role: "Software Engineer | AI/ML Engineer | Full Stack Developer"
+based_in: "India"
+focus:
+  - Designing scalable distributed systems
+  - Building production-grade AI/ML pipelines
+  - Crafting end-to-end full stack products
+  - Engineering with a product-first mindset
+philosophy: "Ship intelligent software that solves real problems, at scale."
 ```
-  ┌──────────────────────────────────────────────────────────────────────────┐
-  │  Senior Software Engineer & AI Systems Architect with 7+ years of        │
-  │  experience engineering high-throughput distributed backend services,   │
-  │  fault-tolerant cloud infrastructure, and low-latency LLM deployments. │
-  └──────────────────────────────────────────────────────────────────────────┘
-```
 
-- 🔭 **Software Engineering Excellence**: Specialist in designing sub-millisecond, multi-tenant distributed microservices using **Go**, **Rust**, and **C++**. Experienced in event-driven systems operating at scale (100k+ RPS).
-- 🧠 **AI/ML & Generative AI Infrastructure**: Architecture lead for private LLM inference clusters (vLLM, TensorRT-LLM), RAG pipelines with vector databases (Qdrant, Milvus), and distributed training using PyTorch.
-- 💻 **Full-Stack Mastery**: End-to-end product development expertise leveraging **TypeScript**, **React/Next.js (App Router)**, **GraphQL/gRPC**, and **Tailwind CSS** to build intuitive, enterprise-ready control panels.
-- 🎯 **Product Engineering Mindset**: Passionate about bridging technical rigor with tangible business impact—reducing cloud spend, optimizing p99 latency, and ensuring continuous 99.999% system availability.
-- 🤝 **Open To**: Technical Advisory, Principal Engineering roles, High-Impact Open Source Collaborations, and Keynote Speaking on AI Infrastructure.
+I'm a software engineer specializing in building **scalable backend systems**, **AI/ML-driven products**, and **full stack applications** that bridge robust engineering with real-world impact. My work spans distributed systems, machine learning pipelines, cloud-native architectures, and pixel-perfect frontend experiences.
 
-<br />
+I approach engineering with a **product mindset** — prioritizing performance, security, and maintainability while keeping the end-user experience central to every technical decision. I enjoy working across the entire stack, from designing APIs and databases to training models and shipping polished UI.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,rust,ts,js,cs,java&perline=8&theme=dark" alt="Languages" />
-</div>
-
-<br />
-
-### 💻 Languages & Runtimes
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend Engineering
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-
-### ⚙️ Backend, Messaging & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-D02030?style=flat-square&logo=qdrant&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud, DevOps & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 🤖 AI / ML Systems Expertise
-
-| Domain | Proficiency | Key Technologies & Architecture Details |
-| :--- | :---: | :--- |
-| **LLM Serving & Inference** | `Expert` | vLLM, TensorRT-LLM, Ray Serve, PagedAttention, KV-Cache Optimization |
-| **Retrieval-Augmented Gen (RAG)** | `Advanced` | Hybrid Search (Dense + Sparse), Qdrant, Milvus, LangChain, LlamaIndex |
-| **Deep Learning & Training** | `Advanced` | PyTorch, Hugging Face Transformers, DeepSpeed, LoRA/QLoRA Fine-tuning |
-| **MLOps & Pipeline Automation** | `Expert` | Kubeflow, MLflow, Triton Inference Server, ONNX Runtime, Feature Stores |
-| **Computer Vision** | `Intermediate` | OpenCV, YOLOv8, Vision Transformers (ViT), PyTorch Lightning |
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 🚀 Featured Enterprise Projects
-
-<details>
-<summary><b>1. 🧠 NexusAI — Distributed Enterprise LLM Gateway & Guardrails</b></summary>
-<br />
-
-An enterprise-grade, ultra-low latency API gateway engineered for routing, caching, and validating multi-provider Large Language Model requests with real-time PII masking and token rate-limiting.
-
-| Parameter | Specification & Benchmark Metrics |
-| :--- | :--- |
-| **Stack** | Go 1.22, Redis Enterprise, vLLM, gRPC, OpenTelemetry, Docker, Kubernetes |
-| **Scale** | Handles 15,000+ Requests Per Second across 4 multi-region cloud locations |
-| **Performance** | Sub-5ms overhead latency (p99); 42% decrease in LLM API expenditure via semantic caching |
-| **Security** | OAuth2 / mTLS, AES-256 PII redact pipeline, OWASP Top 10 LLM Guardrails |
-| **Impact** | Deployed across 12 product units servicing 1.2M monthly active enterprise users |
-| **Repository** | [github.com/dhruvesh07/nexus-ai-gateway](https://github.com/dhruvesh07) |
-
-**Architecture Highlights**: Built with a custom lock-free memory cache in Go, paired with a token-bucket algorithm running on Redis Cluster. Leverages stream-chunk parsing for immediate client response streaming while continuously running async safety evaluation in background worker queues.
-
-</details>
-
-<br />
-
-<details>
-<summary><b>2. ⚡ StreamPulse — High-Throughput Real-Time Event Processing Engine</b></summary>
-<br />
-
-A cloud-native event streaming and analytical pipeline designed to ingest, process, and enrich telemetry streams at petabyte scale.
-
-| Parameter | Specification & Benchmark Metrics |
-| :--- | :--- |
-| **Stack** | Rust, Apache Kafka, ClickHouse, Apache Flink, ClickHouse, Grafana, Terraform |
-| **Scale** | Processes over 2.5 Billion events daily with zero data loss guarantee |
-| **Performance** | End-to-end ingestion-to-query availability in < 150ms |
-| **Security** | TLS 1.3 encryption-in-transit, Role-Based Access Control (RBAC), KMS Integration |
-| **Impact** | Reduced infrastructure operating footprint by 38% compared to legacy Spark setup |
-| **Repository** | [github.com/dhruvesh07/streampulse-engine](https://github.com/dhruvesh07) |
-
-**Architecture Highlights**: Written completely in async Rust (Tokio) for maximum CPU efficiency. Connects to Apache Flink for real-time windowed aggregations, delivering aggregated time-series metrics into ClickHouse for instantaneous analytical dashboarding.
-
-</details>
-
-<br />
-
-<details>
-<summary><b>3. 🌐 HyperMesh — Edge-Native Microservices Orchestrator & Service Mesh</b></summary>
-<br />
-
-A zero-trust service mesh sidecar proxy optimized for edge compute networks and Kubernetes clusters.
-
-| Parameter | Specification & Benchmark Metrics |
-| :--- | :--- |
-| **Stack** | C++20, eBPF, Envoy, Kubernetes Operator, TypeScript, React Control Plane |
-| **Scale** | Manages thousands of active sidecars with minimal memory footprint |
-| **Performance** | < 0.8ms added latency per hop; memory consumption < 12MB per instance |
-| **Security** | Automatic SPIFFE/SPIRE identity issuing, mTLS everywhere, eBPF packet filter |
-| **Impact** | Awarded Top Innovative Open Source Project of the Year in Cloud Native Security |
-| **Repository** | [github.com/dhruvesh07/hypermesh-orchestrator](https://github.com/dhruvesh07) |
-
-**Architecture Highlights**: Leverages Linux eBPF kernel instrumentation to bypass user-space socket overhead, routing service traffic directly between kernel buffers for peak networking performance.
-
-</details>
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 💼 Professional Experience
-
-### **Staff AI Systems Engineer** | Meta Platforms Inc.
-*San Francisco, CA | 2022 — Present*
-- Spearheaded the design and deployment of Meta’s next-generation LLM serving infrastructure, serving 50M+ daily AI requests.
-- Optimized Triton & TensorRT-LLM execution kernels, achieving a 3.2x inference speedup and cutting GPU cluster operational costs by $4.5M annually.
-- Mentored a cross-functional team of 14 engineers across backend, MLOps, and infrastructure tracks.
-
-`Go` `PyTorch` `Kubernetes` `C++` `TensorRT` `Distributed Systems`
-
-<br />
-
-### **Senior Software Engineer (Distributed Systems)** | AWS (Amazon Web Services)
-*Seattle, WA | 2019 — 2022*
-- Architected core components for AWS DynamoDB storage nodes, improving p99 write latencies by 28%.
-- Built automated fault recovery pipelines for multi-AZ cluster failovers, raising platform availability to 99.999%.
-- Published internal technical RFCs for cross-region data replication protocols adopted org-wide.
-
-`Rust` `C++` `Java` `Distributed Storage` `AWS Cloud` `eBPF`
-
-<br />
-
-### **Software Engineer (Full Stack)** | Stripe
-*San Francisco, CA | 2017 — 2019*
-- Developed merchant checkout APIs and React-based financial analytics interfaces used by 100k+ online businesses.
-- Refactored monolith payment processing pipelines into microservices, reducing deployment cycle times from days to hours.
-
-`TypeScript` `React` `Ruby` `PostgreSQL` `Redis` `GraphQL`
-
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 🏆 Honors & Achievements
+**🎯 Open To:**
 
 <div align="center">
 
-| Recognition | Organization / Event | Details & Accomplishment |
-| :--- | :---: | :--- |
-| 🥇 **1st Place Winner** | Global AI Hackathon (2024) | Built an open-source real-time voice translation pipeline with < 200ms latency. |
-| 🏅 **Top Contributor Award** | Cloud Native Computing Foundation | Contributed 45+ merged PRs to Kubernetes & Envoy core sub-projects. |
-| 📜 **Keynote Speaker** | PyData & AI Summit (2023) | Delivered session on *"Scaling Private LLM Inference Clusters in Enterprise Environments"*. |
-| 🚀 **Patent Granted** | US Patent Office (USPTO) | Patent #US11842041B2: *Adaptive Caching Mechanisms for Distributed Databases*. |
+| Software Engineering | AI/ML Engineering | Full Stack Roles | Freelance / Contract |
+|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ |
 
 </div>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+## 🛠️ Tech Stack
 
-## 📜 Certifications & Credentials
+**Languages**
 
-### AWS (Amazon Web Services)
-![AWS Certified Solutions Architect Professional](https://img.shields.io/badge/AWS-Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Certified Machine Learning Specialty](https://img.shields.io/badge/AWS-Machine_Learning_Specialty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,c&theme=dark" />
+</div>
 
-### Oracle
-![Oracle Certified Professional Java SE 17](https://img.shields.io/badge/Oracle-Java_SE_17_Developer_OCP-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Database Administrator Certified Professional](https://img.shields.io/badge/Oracle-Database_Administrator_Professional-C70D0E?style=for-the-badge&logo=oracle&logoColor=white)
+**Frontend**
 
-### Cisco
-![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco-CCNA_Routing_%26_Switching-1D69CC?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Certified DevNet Professional](https://img.shields.io/badge/Cisco-DevNet_Professional-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vuejs&theme=dark" />
+</div>
 
-### NPTEL & Academic
-![NPTEL Cloud Computing Gold Elite](https://img.shields.io/badge/NPTEL-Cloud_Computing_Top_1%25_Gold-28A745?style=for-the-badge&logo=google-academic&logoColor=white)
-![NPTEL Deep Learning Specialization](https://img.shields.io/badge/NPTEL-Deep_Learning_Specialization-17A2B8?style=for-the-badge&logo=google-academic&logoColor=white)
+**Backend & Databases**
 
-<br />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,mysql&theme=dark" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+**Cloud, DevOps & Tooling**
 
-## 🧩 Competitive Coding Profiles
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,grafana&theme=dark" />
+</div>
+
+---
+
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Regression, classification, ensemble methods, model evaluation & tuning |
+| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch & TensorFlow production pipelines |
+| **NLP** | ⭐⭐⭐⭐ | Text classification, embeddings, LLM fine-tuning, RAG pipelines |
+| **Computer Vision** | ⭐⭐⭐⭐ | Object detection, image segmentation, OpenCV pipelines |
+| **MLOps** | ⭐⭐⭐⭐ | Model versioning, CI/CD for ML, monitoring, containerized deployment |
+| **LLM Engineering** | ⭐⭐⭐⭐ | Prompt engineering, vector databases, agentic workflows, fine-tuning |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<details>
+<summary><b>🔮 Project One — Intelligent Recommendation Engine</b></summary>
+<br/>
+
+A real-time, ML-powered recommendation system designed to serve personalized content at scale, leveraging collaborative filtering and deep learning embeddings.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python, PyTorch, FastAPI, Redis, PostgreSQL, Docker |
+| **Scale** | 2M+ daily inference requests |
+| **Performance** | p99 latency under 80ms |
+| **Security** | JWT auth, rate limiting, encrypted data at rest |
+| **Impact** | 27% increase in user engagement |
+| **Repository** | [github.com/dhruvesh07/project-one](https://github.com/dhruvesh07/project-one) |
+
+Built as a production-grade recommendation microservice, this project integrates a hybrid collaborative-filtering and embedding-based model, served through a low-latency FastAPI layer with Redis caching for hot-path optimization. The system is fully containerized and designed for horizontal scaling under high-throughput conditions.
+
+</details>
+
+<details>
+<summary><b>⚡ Project Two — Distributed Task Orchestration Platform</b></summary>
+<br/>
+
+A fault-tolerant, distributed job scheduling and orchestration platform supporting asynchronous workflows across microservices.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Go, Kubernetes, Kafka, PostgreSQL, gRPC |
+| **Scale** | 500K+ jobs processed per day |
+| **Performance** | 99.95% job completion SLA |
+| **Security** | mTLS between services, RBAC access control |
+| **Impact** | Reduced infra costs by 32% via autoscaling |
+| **Repository** | [github.com/dhruvesh07/project-two](https://github.com/dhruvesh07/project-two) |
+
+This platform provides reliable distributed task execution with retry logic, dead-letter queues, and real-time observability via Grafana dashboards. Designed with Kubernetes-native scaling and Kafka-based event streaming for resilient, decoupled service communication.
+
+</details>
+
+<details>
+<summary><b>🧠 Project Three — Full Stack SaaS Analytics Dashboard</b></summary>
+<br/>
+
+An end-to-end SaaS analytics platform with real-time dashboards, multi-tenant architecture, and role-based access.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS |
+| **Scale** | 10K+ active organizations |
+| **Performance** | Sub-second dashboard load times |
+| **Security** | OAuth 2.0, multi-tenant data isolation |
+| **Impact** | Adopted by 3 enterprise clients within 6 months |
+| **Repository** | [github.com/dhruvesh07/project-three](https://github.com/dhruvesh07/project-three) |
+
+A polished, production-ready SaaS product built with a modern full stack architecture. Features include real-time data visualization, tenant-isolated data pipelines, and a modular component library designed for rapid feature iteration.
+
+</details>
+
+---
+
+## 💼 Experience
+
+**Software Engineer — High-Scale Systems**
+`Jan 2024 – Present`
+
+Working on backend systems and AI-driven features for a high-scale product, partnering closely with product and design teams to ship reliable, performant software.
+
+- Designed and shipped microservices handling millions of daily requests
+- Built and deployed ML models for production inference pipelines
+- Optimized database queries, reducing average latency by 40%
+- Mentored junior engineers and led code review practices
+
+`Node.js` `Python` `AWS` `PostgreSQL` `Docker` `Kubernetes`
+
+<br/>
+
+**Software Engineering Intern**
+`May 2023 – Dec 2023`
+
+Contributed to core platform features, focusing on API development and internal tooling automation.
+
+- Developed RESTful APIs consumed by multiple internal teams
+- Automated CI/CD pipelines, cutting deployment time by 60%
+- Wrote unit and integration tests, raising coverage to 90%+
+
+`Java` `Spring Boot` `Docker` `Jenkins` `MySQL`
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥇 Smart India Hackathon Winner | National-level hackathon, 2023 |
+| 🎓 Dean's List | Top 5% of graduating class |
+| 🏅 Google Summer of Code | Selected contributor, 2023 |
+| 📝 Published Research Paper | IEEE Conference on AI Systems |
+| ⭐ Top Rated Freelancer | 5.0 rating across 20+ projects |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+**AWS**
+
+<div align="center">
+<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+</div>
+
+**Oracle**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</div>
+
+**NPTEL**
+
+<div align="center">
+<img src="https://img.shields.io/badge/NPTEL%20-%20Machine%20Learning-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL%20-%20Cloud%20Computing-6D28D9?style=flat-square&logo=googlescholar&logoColor=white" />
+</div>
+
+**Cisco**
+
+<div align="center">
+<img src="https://img.shields.io/badge/Cisco%20-%20Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</div>
+
+---
+
+## 💻 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/LeetCode-Guardian_Rating_2450+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-1E1E3F?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-&nbsp;
 <a href="https://geeksforgeeks.org/user/dhruvesh07">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Rank_1_Institute-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-1E1E3F?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
-
-<br /><br />
-
 <a href="https://hackerrank.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/HackerRank-6★_Problem_Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/HackerRank-1E1E3F?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
 </a>
-&nbsp;
 <a href="https://codechef.com/users/dhruvesh07">
-  <img src="https://img.shields.io/badge/CodeChef-5★_Division_1-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  <img src="https://img.shields.io/badge/CodeChef-1E1E3F?style=for-the-badge&logo=codechef&logoColor=5B4638" />
 </a>
 
 </div>
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 📊 GitHub Analytics & Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&theme=synthwave&hide_border=true&bg_color=0f051d&title_color=a855f7&icon_color=8b5cf6&text_color=e2e8f0&border_radius=10" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvesh07&theme=synthwave&hide_border=true&background=0f051d&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&border_radius=10" width="48%" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
 
-  <br /><br />
+<br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&theme=synthwave&hide_border=true&bg_color=0f051d&title_color=a855f7&text_color=e2e8f0&border_radius=10&langs_count=8" width="60%" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhruvesh07&theme=darkhub&no-frame=true&no-background=true&margin-w=15&column=6" width="90%" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=dhruvesh07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&theme=react-dark&bg_color=0f051d&color=a855f7&line=7c3aed&point=6366f1&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9b6ff" />
 </div>
 
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvesh07/dhruvesh07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/dhruvesh07/dhruvesh07/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
+---
 
 ## 🎯 Current Focus
 
 ```yaml
 current_focus:
   learning:
-    - Custom CUDA Kernel Optimization for Matrix Multiplication
-    - Advanced Distributed Consensus Protocols (Raft, Paxos)
+    - Advanced distributed systems design
+    - LLM fine-tuning and agentic architectures
+    - System design at scale
   building:
-    - High-throughput LLM Guardrail Gateway with sub-millisecond overhead
-    - Open-source Rust client for distributed vector search
+    - Production-grade RAG pipeline framework
+    - Open-source developer tooling
   exploring:
-    - Quantum Computing algorithms & Qiskit integration
-    - Edge-native WebAssembly (Wasm) runtimes
+    - Rust for high-performance backend services
+    - Edge computing and serverless architectures
   open_to:
-    - Technical Advisory & Architecture Consulting
-    - Keynote Speaking on AI Infrastructure & Low-Latency Systems
+    - Full-time Software Engineering roles
+    - AI/ML Engineering opportunities
+    - Freelance and contract engagements
+    - Open source collaboration
 ```
 
-<br />
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 🌐 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
-  <a href="mailto:dabhadedhruvesh007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dabhadedhruvesh007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/dhruvesh07">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhruvesh_Dabhade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dhruvesh07">
-    <img src="https://img.shields.io/badge/GitHub-dhruvesh07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="http://dhruvex.wuaze.com">
-    <img src="https://img.shields.io/badge/Portfolio-dhruvex.wuaze.com-4F46E5?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
+<a href="mailto:dabhadedhruvesh007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/dhruvesh07">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/dhruvesh07">
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="http://dhruvex.wuaze.com">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
-<br />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a547-11eb-92ae-ab3200213b1b.png" width="100%" alt="Separator" />
-
-## 💬 Footer
+---
 
 <div align="center">
 
-> *"Simplicity is prerequisite for reliability. Software engineering is the art of mastering complexity with elegant abstractions."*
+*"Code is the closest thing we have to magic — write it with intention."*
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0f051d,31105c,4c1d95,6d28d9,7c3aed,4f46e5&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" />
 
 </div>
