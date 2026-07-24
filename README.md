@@ -1,37 +1,37 @@
 <div align="center">
 
-<img src="assets/header-banner.svg" width="100%" />
+<img src="assets/header-banner.svg" width="100%" alt="Dhruvesh Dabhade Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&background=00000000&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI%2FML+Enthusiast;Full+Stack+%7C+Cloud+%7C+Product+Engineering;Building+Scalable+%2C+Intelligent+Systems;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=750&lines=Distributed+Systems+%7C+Generative+AI;High-Performance+Full-Stack+Engineering;Cloud-Native+Architecture+%7C+Low-Latency+Services;Building+Scalable%2C+Intelligent+Enterprise+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-000000?style=flat-square&labelColor=000000&color=8B5CF6&logo=googlescholar&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/CGPA-9.0%2F10-000000?style=flat-square&labelColor=000000&color=7C3AED&logo=bookstack&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/Location-India-000000?style=flat-square&labelColor=000000&color=6D28D9&logo=googlemaps&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-05020a?style=flat-square&labelColor=05020a&color=a855f7&logo=googlescholar&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/CGPA-9.0%2F10-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=bookstack&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/Location-India-05020a?style=flat-square&labelColor=05020a&color=ec4899&logo=googlemaps&logoColor=c4b5fd" />
 
 <br/><br/>
 
 <a href="http://dhruvex.wuaze.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000&color=8B5CF6&logo=vercel&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
 </a>
 <a href="https://linkedin.com/in/dhruvesh07">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&color=6D28D9&logo=linkedin&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&labelColor=05020a&color=818cf8&logo=linkedin&logoColor=c4b5fd" />
 </a>
 <a href="mailto:dabhadedhruvesh007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&labelColor=000000&color=4C1D95&logo=gmail&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Email-05020a?style=for-the-badge&labelColor=05020a&color=ec4899&logo=gmail&logoColor=c4b5fd" />
 </a>
 <a href="https://github.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&labelColor=000000&color=1E1B4B&logo=github&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/GitHub-05020a?style=for-the-badge&labelColor=05020a&color=38bdf8&logo=github&logoColor=c4b5fd" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=8b5cf6&label=Profile+Views&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&labelColor=000000&color=7c3aed&label=Followers&logo=github&logoColor=C4B5FD" />
-<img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&labelColor=000000&color=6d28d9&label=Stars&logo=github&logoColor=C4B5FD" />
+<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=a855f7&label=Profile+Views&labelColor=05020a" />
+<img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&labelColor=05020a&color=818cf8&label=Followers&logo=github&logoColor=c4b5fd" />
+<img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&labelColor=05020a&color=ec4899&label=Stars&logo=github&logoColor=c4b5fd" />
 
 </div>
 
@@ -59,10 +59,10 @@ I approach engineering with a **product mindset** — prioritizing performance, 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Software%20Engineering-000000?style=flat-square&labelColor=000000&color=8B5CF6" />
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-000000?style=flat-square&labelColor=000000&color=7C3AED" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Roles-000000?style=flat-square&labelColor=000000&color=6D28D9" />
-<img src="https://img.shields.io/badge/Freelance%20%2F%20Contract-000000?style=flat-square&labelColor=000000&color=4C1D95" />
+<img src="https://img.shields.io/badge/Software%20Engineering-05020a?style=flat-square&labelColor=05020a&color=a855f7" />
+<img src="https://img.shields.io/badge/AI%2FML%20Engineering-05020a?style=flat-square&labelColor=05020a&color=818cf8" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Roles-05020a?style=flat-square&labelColor=05020a&color=ec4899" />
+<img src="https://img.shields.io/badge/Freelance%20%2F%20Contract-05020a?style=flat-square&labelColor=05020a&color=38bdf8" />
 
 </div>
 
@@ -186,7 +186,7 @@ Working on backend systems and AI-driven features for a high-scale product, part
 - Optimized database queries, reducing average latency by 40%
 - Mentored junior engineers and led code review practices
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&labelColor=000000&color=8B5CF6" /> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&color=7C3AED" /> <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&labelColor=000000&color=6D28D9" /> <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&labelColor=000000&color=4C1D95" /> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&labelColor=000000&color=8B5CF6" /> <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&labelColor=000000&color=6D28D9" />
+<img src="https://img.shields.io/badge/Node.js-05020a?style=flat-square&labelColor=05020a&color=a855f7" /> <img src="https://img.shields.io/badge/Python-05020a?style=flat-square&labelColor=05020a&color=818cf8" /> <img src="https://img.shields.io/badge/AWS-05020a?style=flat-square&labelColor=05020a&color=ec4899" /> <img src="https://img.shields.io/badge/PostgreSQL-05020a?style=flat-square&labelColor=05020a&color=38bdf8" /> <img src="https://img.shields.io/badge/Docker-05020a?style=flat-square&labelColor=05020a&color=a855f7" /> <img src="https://img.shields.io/badge/Kubernetes-05020a?style=flat-square&labelColor=05020a&color=818cf8" />
 
 <br/>
 
@@ -199,7 +199,7 @@ Contributed to core platform features, focusing on API development and internal 
 - Automated CI/CD pipelines, cutting deployment time by 60%
 - Wrote unit and integration tests, raising coverage to 90%+
 
-<img src="https://img.shields.io/badge/Java-000000?style=flat-square&labelColor=000000&color=8B5CF6" /> <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&labelColor=000000&color=7C3AED" /> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&labelColor=000000&color=6D28D9" /> <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&labelColor=000000&color=4C1D95" /> <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&labelColor=000000&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Java-05020a?style=flat-square&labelColor=05020a&color=a855f7" /> <img src="https://img.shields.io/badge/Spring%20Boot-05020a?style=flat-square&labelColor=05020a&color=818cf8" /> <img src="https://img.shields.io/badge/Docker-05020a?style=flat-square&labelColor=05020a&color=ec4899" /> <img src="https://img.shields.io/badge/Jenkins-05020a?style=flat-square&labelColor=05020a&color=38bdf8" /> <img src="https://img.shields.io/badge/MySQL-05020a?style=flat-square&labelColor=05020a&color=a855f7" />
 
 <img src="assets/divider.svg" width="100%" />
 
@@ -224,27 +224,27 @@ Contributed to core platform features, focusing on API development and internal 
 **AWS**
 
 <div align="center">
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-000000?style=flat-square&labelColor=000000&color=FF9900&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-000000?style=flat-square&labelColor=000000&color=FF9900&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-05020a?style=flat-square&labelColor=05020a&color=FF9900&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-05020a?style=flat-square&labelColor=05020a&color=FF9900&logo=amazonaws&logoColor=FF9900" />
 </div>
 
 **Oracle**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20Professional-000000?style=flat-square&labelColor=000000&color=F80000&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/Oracle%20Certified%20Java%20Professional-05020a?style=flat-square&labelColor=05020a&color=F80000&logo=oracle&logoColor=F80000" />
 </div>
 
 **NPTEL**
 
 <div align="center">
-<img src="https://img.shields.io/badge/NPTEL%20-%20Machine%20Learning-000000?style=flat-square&labelColor=000000&color=8B5CF6&logo=googlescholar&logoColor=C4B5FD" />
-<img src="https://img.shields.io/badge/NPTEL%20-%20Cloud%20Computing-000000?style=flat-square&labelColor=000000&color=8B5CF6&logo=googlescholar&logoColor=C4B5FD" />
+<img src="https://img.shields.io/badge/NPTEL%20-%20Machine%20Learning-05020a?style=flat-square&labelColor=05020a&color=a855f7&logo=googlescholar&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/NPTEL%20-%20Cloud%20Computing-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=googlescholar&logoColor=c4b5fd" />
 </div>
 
 **Cisco**
 
 <div align="center">
-<img src="https://img.shields.io/badge/Cisco%20-%20Networking%20Basics-000000?style=flat-square&labelColor=000000&color=1BA0D7&logo=cisco&logoColor=1BA0D7" />
+<img src="https://img.shields.io/badge/Cisco%20-%20Networking%20Basics-05020a?style=flat-square&labelColor=05020a&color=1BA0D7&logo=cisco&logoColor=1BA0D7" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
@@ -254,16 +254,16 @@ Contributed to core platform features, focusing on API development and internal 
 <div align="center">
 
 <a href="https://leetcode.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&labelColor=000000&color=FFA116&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-05020a?style=for-the-badge&labelColor=05020a&color=FFA116&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="https://geeksforgeeks.org/user/dhruvesh07">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&labelColor=000000&color=2F8D46&logo=geeksforgeeks&logoColor=2F8D46" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-05020a?style=for-the-badge&labelColor=05020a&color=2F8D46&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
 <a href="https://hackerrank.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&labelColor=000000&color=00EA64&logo=hackerrank&logoColor=00EA64" />
+  <img src="https://img.shields.io/badge/HackerRank-05020a?style=for-the-badge&labelColor=05020a&color=00EA64&logo=hackerrank&logoColor=00EA64" />
 </a>
 <a href="https://codechef.com/users/dhruvesh07">
-  <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&labelColor=000000&color=8B5CF6&logo=codechef&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/CodeChef-05020a?style=for-the-badge&labelColor=05020a&color=a855f7&logo=codechef&logoColor=c4b5fd" />
 </a>
 
 </div>
@@ -274,12 +274,12 @@ Contributed to core platform features, focusing on API development and internal 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&bg_color=000000&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB&border_color=6D28D9&border_radius=14&hide_border=false" />
-<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=000000&border=6D28D9&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideNums=E5E7EB&sideLabels=8B5CF6&currStreakNum=FFFFFF&dates=6D28D9&border_radius=14" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&bg_color=05020a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed&border_radius=14&hide_border=false" />
+<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&bg_color=000000&title_color=C4B5FD&text_color=E5E7EB&border_color=6D28D9&border_radius=14&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&bg_color=05020a&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=14&hide_border=false" />
 
 </div>
 
@@ -296,7 +296,7 @@ Contributed to core platform features, focusing on API development and internal 
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&bg_color=000000&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity&title_color=C4B5FD" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&bg_color=05020a&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity&title_color=c084fc" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
@@ -337,16 +337,16 @@ current_focus:
 <div align="center">
 
 <a href="mailto:dabhadedhruvesh007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&labelColor=000000&color=4C1D95&logo=gmail&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Gmail-05020a?style=for-the-badge&labelColor=05020a&color=ec4899&logo=gmail&logoColor=c4b5fd" />
 </a>
 <a href="https://linkedin.com/in/dhruvesh07">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&color=6D28D9&logo=linkedin&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&labelColor=05020a&color=818cf8&logo=linkedin&logoColor=c4b5fd" />
 </a>
 <a href="https://github.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&labelColor=000000&color=1E1B4B&logo=github&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/GitHub-05020a?style=for-the-badge&labelColor=05020a&color=38bdf8&logo=github&logoColor=c4b5fd" />
 </a>
 <a href="http://dhruvex.wuaze.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&labelColor=000000&color=8B5CF6&logo=vercel&logoColor=C4B5FD" />
+  <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
 </a>
 
 </div>
@@ -355,6 +355,6 @@ current_focus:
 
 <div align="center">
 
-<img src="assets/footer-banner.svg" width="100%" />
+<img src="assets/footer-banner.svg" width="100%" alt="Dhruvesh Dabhade Footer Banner" />
 
 </div>

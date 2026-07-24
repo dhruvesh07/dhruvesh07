@@ -1,57 +1,112 @@
-<svg width="100%" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient id="blobPurple" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    <!-- Background Base Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05020a"/>
+      <stop offset="40%" stop-color="#0c0418"/>
+      <stop offset="80%" stop-color="#120624"/>
+      <stop offset="100%" stop-color="#06020c"/>
+    </linearGradient>
+
+    <!-- Liquid Glow Radial Blobs -->
+    <radialGradient id="blobViolet" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.65"/>
+      <stop offset="60%" stop-color="#7c3aed" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#4c1d95" stop-opacity="0"/>
     </radialGradient>
+
     <radialGradient id="blobIndigo" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#4C1D95" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#4C1D95" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#4338ca" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#1e1b4b" stop-opacity="0"/>
     </radialGradient>
+
+    <radialGradient id="blobPink" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#d946ef" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#831843" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="blobCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Typography & Stroke Gradients -->
     <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C4B5FD"/>
-      <stop offset="50%" stop-color="#8B5CF6"/>
-      <stop offset="100%" stop-color="#6D28D9"/>
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="30%" stop-color="#c084fc"/>
+      <stop offset="70%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
-    <linearGradient id="panelStroke" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#4C1D95" stop-opacity="0.15"/>
+
+    <linearGradient id="glassBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.8"/>
+      <stop offset="30%" stop-color="#c084fc" stop-opacity="0.4"/>
+      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8"/>
     </linearGradient>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6D28D9" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#A78BFA" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+
+    <linearGradient id="lineLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c084fc" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </linearGradient>
-    <filter id="blur1" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="40"/>
+
+    <!-- Blur & Glow Filters -->
+    <filter id="heavyBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="55"/>
     </filter>
-    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="5"/>
+
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
   </defs>
 
-  <rect width="1200" height="320" fill="#000000"/>
+  <!-- Base canvas background -->
+  <rect width="1200" height="360" fill="url(#bgGrad)" rx="16"/>
 
-  <circle cx="160" cy="70" r="170" fill="url(#blobPurple)" filter="url(#blur1)">
-    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="1060" cy="260" r="190" fill="url(#blobIndigo)" filter="url(#blur1)">
-    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="600" cy="20" r="140" fill="url(#blobPurple)" filter="url(#blur1)" opacity="0.3">
-    <animate attributeName="cy" values="20;55;20" dur="8s" repeatCount="indefinite"/>
+  <!-- Animated Liquid Light Blobs -->
+  <circle cx="200" cy="100" r="210" fill="url(#blobViolet)" filter="url(#heavyBlur)">
+    <animate attributeName="cx" values="200;350;200" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="100;180;100" dur="12s" repeatCount="indefinite"/>
   </circle>
 
-  <rect x="70" y="55" width="1060" height="210" rx="26" fill="rgba(255,255,255,0.035)" stroke="url(#panelStroke)" stroke-width="1.4"/>
-  <rect x="90" y="58" width="1020" height="1.5" fill="#ffffff" opacity="0.12"/>
+  <circle cx="1000" cy="280" r="230" fill="url(#blobIndigo)" filter="url(#heavyBlur)">
+    <animate attributeName="cx" values="1000;850;1000" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="cy" values="280;190;280" dur="13s" repeatCount="indefinite"/>
+  </circle>
 
-  <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#textGrad)" filter="url(#softGlow)" opacity="0.55">DHRUVESH DABHADE</text>
-  <text x="600" y="152" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="url(#textGrad)">DHRUVESH DABHADE</text>
+  <circle cx="600" cy="40" r="170" fill="url(#blobPink)" filter="url(#heavyBlur)" opacity="0.8">
+    <animate attributeName="r" values="170;230;170" dur="8s" repeatCount="indefinite"/>
+  </circle>
 
-  <text x="600" y="196" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#C4B5FD" opacity="0.85">Software Engineer · AI/ML Engineer · Full Stack Developer</text>
+  <circle cx="950" cy="70" r="140" fill="url(#blobCyan)" filter="url(#heavyBlur)" opacity="0.6">
+    <animate attributeName="cx" values="950;800;950" dur="14s" repeatCount="indefinite"/>
+  </circle>
 
-  <line x1="470" y1="226" x2="730" y2="226" stroke="url(#lineGrad)" stroke-width="2.5">
-    <animate attributeName="x1" values="470;440;470" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="730;760;730" dur="4s" repeatCount="indefinite"/>
+  <!-- Liquid Glass Panel Overlay -->
+  <rect x="50" y="45" width="1100" height="270" rx="28" fill="rgba(15, 7, 32, 0.55)" stroke="url(#glassBorder)" stroke-width="1.8" filter="url(#neonGlow)"/>
+
+  <!-- Top Glass Highlight Rim -->
+  <path d="M 80 47 Q 600 47 1120 47" stroke="#ffffff" stroke-width="1.2" stroke-opacity="0.25" fill="none"/>
+
+  <!-- Main Name Title -->
+  <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="58" font-weight="900" letter-spacing="3" fill="url(#textGrad)" filter="url(#neonGlow)">DHRUVESH DABHADE</text>
+
+  <!-- Subtitle Tagline -->
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5" fill="#e9d5ff" opacity="0.9">Software Engineer · AI/ML Engineer · Full Stack Developer</text>
+
+  <!-- Animated Glowing Divider Bar -->
+  <line x1="420" y1="240" x2="780" y2="240" stroke="url(#lineLight)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="x1" values="420;380;420" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="780;820;780" dur="5s" repeatCount="indefinite"/>
   </line>
+
+  <!-- Minimal Tech Badge Tags inside Header -->
+  <text x="600" y="275" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#a78bfa" opacity="0.8">⚡ Distributed Systems · Generative AI · Cloud Native ⚡</text>
 </svg>
