@@ -1,0 +1,16 @@
+<svg width="100%" viewBox="0 0 1200 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D28D9" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#6D28D9" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#C4B5FD" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#6D28D9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#6D28D9" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="divGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="url(#divGrad)" stroke-width="5" filter="url(#divGlow)" opacity="0.65"/>
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="url(#divGrad)" stroke-width="1.5"/>
+</svg>
