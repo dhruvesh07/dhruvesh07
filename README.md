@@ -2,260 +2,140 @@
 
 <img src="assets/header-banner.svg" width="100%" alt="Dhruvesh Dabhade Header Banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=750&lines=16-Year-Old+Developer;Full+Stack+%7C+AI%2FML+Enthusiast;Building+Open+Source+Projects;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
-</a>
+<br/>
+
+<h1 align="center">Dhruvesh Dabhade</h1>
+
+<p align="center">
+  <b>Designing Systems • Building Intelligence • Creating the Future</b>
+</p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Role-16_Year_Old_Developer-05020a?style=flat-square&labelColor=05020a&color=a855f7&logo=codeforces&logoColor=c4b5fd" />
-<img src="https://img.shields.io/badge/Education-Computer_Science-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=google-academic&logoColor=c4b5fd" />
-<img src="https://img.shields.io/badge/Location-India-05020a?style=flat-square&labelColor=05020a&color=ec4899&logo=googlemaps&logoColor=c4b5fd" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2200&pause=800&color=C084FC&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;AI%2FML+Builder;System+Thinker;Open+Source+Creator;Future+Startup+Founder" alt="Typing SVG" />
 
 <br/><br/>
 
 <a href="http://dhruvex.wuaze.com">
-  <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0f172a?style=for-the-badge&color=c084fc" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/dhruvesh07">
-  <img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&labelColor=05020a&color=818cf8&logo=linkedin&logoColor=c4b5fd" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&color=818cf8" alt="LinkedIn" />
 </a>
 <a href="mailto:dabhadedhruvesh007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-05020a?style=for-the-badge&labelColor=05020a&color=ec4899&logo=gmail&logoColor=c4b5fd" />
-</a>
-<a href="https://github.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/GitHub-05020a?style=for-the-badge&labelColor=05020a&color=38bdf8&logo=github&logoColor=c4b5fd" />
+  <img src="https://img.shields.io/badge/Email-Reach_Out-0f172a?style=for-the-badge&color=ec4899" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=a855f7&label=Profile+Views&labelColor=05020a" />
-<img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&labelColor=05020a&color=818cf8&label=Followers&logo=github&logoColor=c4b5fd" />
-<img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&labelColor=05020a&color=ec4899&label=Stars&logo=github&logoColor=c4b5fd" />
+<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=a855f7" alt="Profile Views" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" />
 
-## 🧬 About Me
+## 🧠 Philosophy
 
-```yaml
-name: "Dhruvesh Dabhade"
-age: 16
-status: "16-Year-Old Developer"
-based_in: "India"
-focus:
-  - Building full-stack web applications & AI/ML tools
-  - Exploring machine learning, deep learning & LLM pipelines
-  - Solving algorithmic problem-solving challenges
-  - Contributing to open-source software
-philosophy: "Learn relentlessly, code with curiosity, build with passion."
-```
+> I don’t just code.  
+> I design **systems that think, scale, and solve real problems**.
 
-I'm a **16-year-old developer** from India with a deep passion for computer science, software engineering, and artificial intelligence. I enjoy building modern full-stack web applications, exploring machine learning models, and turning ideas into clean, functional code.
+I’m a 16-year-old developer from India focused on building **high-impact tools, AI systems, and next-gen digital products**.
 
-When I'm not coding, I spend my time mastering technologies like **Python**, **JavaScript/TypeScript**, **React/Next.js**, **Node.js**, and **FastAPI**, while diving into algorithms, system design fundamentals, and open-source projects.
+<img src="assets/divider.svg" width="100%" />
 
-**🎯 Open To**
+## 🚀 Featured Work
+
+### 🔐 envman
+
+**Secure Environment Manager CLI**
+
+* AES-based encryption
+* Developer-first CLI workflow
+* Built for real-world security
+
+🔗 https://github.com/dhruvesh07/envman
+
+---
+
+### 🔄 Synco
+
+**Offline Device Sync Ecosystem**
+
+* Real-time media telemetry
+* Zero-trust encrypted communication
+* Cross-device control system
+
+> Think AirDrop + Spotify Connect + System Control — combined
+
+🔗 https://github.com/dhruvesh07/synco
+
+---
+
+### 🤖 AI Systems & Experiments
+
+* Local LLM workflows
+* Automation tools
+* AI-powered assistants
+
+<img src="assets/divider.svg" width="100%" />
+
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source%20Collaboration-05020a?style=flat-square&labelColor=05020a&color=a855f7" />
-<img src="https://img.shields.io/badge/AI%2FML%20Projects-05020a?style=flat-square&labelColor=05020a&color=818cf8" />
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-05020a?style=flat-square&labelColor=05020a&color=ec4899" />
-<img src="https://img.shields.io/badge/Hackathons%20%26%20Learning-05020a?style=flat-square&labelColor=05020a&color=38bdf8" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,docker,linux,git,github,vscode" alt="Tech Stack" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" />
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,go,c&theme=dark" />
-</div>
-
-**Frontend**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css,vuejs&theme=dark" />
-</div>
-
-**Backend & Databases**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,mysql&theme=dark" />
-</div>
-
-**Cloud, DevOps & Tooling**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,grafana&theme=dark" />
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 🤖 AI / ML Expertise
+## 📊 Performance
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐ | Regression, classification, decision trees, scikit-learn models |
-| **Deep Learning** | ⭐⭐⭐⭐ | Neural networks, CNNs, PyTorch & TensorFlow fundamentals |
-| **NLP** | ⭐⭐⭐⭐ | Text processing, embeddings, RAG pipelines & LLM API integrations |
-| **Computer Vision** | ⭐⭐⭐ | Image processing, OpenCV, basic object detection |
-| **MLOps** | ⭐⭐⭐ | Model serving via FastAPI, Dockerized ML pipelines |
+<img src="https://streak-stats.demolab.com?user=dhruvesh07&theme=tokyonight&hide_border=true&background=0d1117" width="60%" alt="Streak Stats" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" />
 
-## 🚀 Featured Projects
+## 🧭 Current Focus
 
-<details>
-<summary><b>🛠️ EnvMan — CLI Environment Variable & Secret Manager</b></summary>
-<br/>
-
-A fast, lightweight CLI tool engineered for securely managing, encrypting, and syncing `.env` configuration files across development environments.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Rust, CLI (Clap), AES-256-GCM, Docker |
-| **Features** | Encrypted config storage, environment diffing & instant sync |
-| **Repository** | [github.com/dhruvesh07/envman](https://github.com/dhruvesh07/envman) |
-
-Designed to streamline local development workflows, EnvMan prevents credential leakage by keeping sensitive environment variables encrypted at rest with zero external runtime dependencies.
-
-</details>
-
-<details>
-<summary><b>⚡ Synco — Low-Latency Real-Time State & Data Sync Engine</b></summary>
-<br/>
-
-A high-performance peer-to-peer and cloud data synchronization engine supporting real-time state updates across web applications.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | TypeScript, Node.js, WebSockets, Redis, SQLite |
-| **Features** | Delta state synchronization, bi-directional event streams |
-| **Repository** | [github.com/dhruvesh07/synco](https://github.com/dhruvesh07/synco) |
-
-Synco handles low-latency multi-client state syncing with automatic reconnect resolution, conflict handling, and lightweight WebSocket event broadcasting.
-
-</details>
-
-<details>
-<summary><b>🧠 Core OS — Lightweight x86 Kernel & System Simulator</b></summary>
-<br/>
-
-An educational operating system kernel built from scratch to explore low-level systems programming, memory management, and hardware interactions.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | C, Assembly (x86), QEMU, Makefile, GDB |
-| **Features** | Custom bootloader, memory paging, VGA text driver, basic shell |
-| **Repository** | [github.com/dhruvesh07/core-os](https://github.com/dhruvesh07/core-os) |
-
-A hands-on systems project implementing low-level OS components including interrupt descriptor tables (IDT), basic paging, keyboard interrupt handling, and a custom CLI command shell.
-
-</details>
+* 🧠 AI-powered systems
+* ⚡ High-performance applications
+* 🔐 Security-first architecture
+* 🌐 Startup-level product building
 
 <img src="assets/divider.svg" width="100%" />
 
-## 💻 Coding Profiles
+## 🧬 Vision
 
-<div align="center">
-
-<a href="https://leetcode.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/LeetCode-05020a?style=for-the-badge&labelColor=05020a&color=FFA116&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://geeksforgeeks.org/user/dhruvesh07">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-05020a?style=for-the-badge&labelColor=05020a&color=2F8D46&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://hackerrank.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/HackerRank-05020a?style=for-the-badge&labelColor=05020a&color=00EA64&logo=hackerrank&logoColor=00EA64" />
-</a>
-<a href="https://codechef.com/users/dhruvesh07">
-  <img src="https://img.shields.io/badge/CodeChef-05020a?style=for-the-badge&labelColor=05020a&color=a855f7&logo=codechef&logoColor=c4b5fd" />
-</a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&bg_color=05020a&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity&title_color=c084fc" />
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/dhruvesh07/dhruvesh07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 🎯 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Data Structures & Algorithms in C++ / Python
-    - Machine Learning fundamentals & PyTorch
-    - Next.js App Router & TypeScript
-  building:
-    - Full-stack web projects & interactive tools
-    - Open-source developer tools
-  exploring:
-    - Generative AI & RAG pipelines
-    - Cloud deployment with Docker
-  open_to:
-    - Open source collaboration
-    - Hackathons & coding competitions
-```
-
-<img src="assets/divider.svg" width="100%" />
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="mailto:dabhadedhruvesh007@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-05020a?style=for-the-badge&labelColor=05020a&color=ec4899&logo=gmail&logoColor=c4b5fd" />
-</a>
-<a href="https://linkedin.com/in/dhruvesh07">
-  <img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&labelColor=05020a&color=818cf8&logo=linkedin&logoColor=c4b5fd" />
-</a>
-<a href="https://github.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/GitHub-05020a?style=for-the-badge&labelColor=05020a&color=38bdf8&logo=github&logoColor=c4b5fd" />
-</a>
-<a href="http://dhruvex.wuaze.com">
-  <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
-</a>
-
-</div>
+> Build products that **feel simple** but are **technically powerful underneath**.
 
 <br/>
 
 <div align="center">
 
-<img src="assets/footer-banner.svg" width="100%" alt="Dhruvesh Dabhade Footer Banner" />
+### ⚡ “From ideas → to systems → to products”
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 🐍 Contribution Graph (Dynamic)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dhruvesh07/dhruvesh07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 💎 Signature
+
+<div align="center">
+
+<b>Engineered with precision. Built with intent.</b>
 
 </div>
