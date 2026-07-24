@@ -3,13 +3,13 @@
 <img src="assets/header-banner.svg" width="100%" alt="Dhruvesh Dabhade Header Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=750&lines=16-Year-Old+Student+Developer;Full+Stack+%7C+AI%2FML+Enthusiast;Building+Open+Source+Projects;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C084FC&background=00000000&center=true&vCenter=true&width=750&lines=16-Year-Old+Developer;Full+Stack+%7C+AI%2FML+Enthusiast;Building+Open+Source+Projects;Problem+Solver+%7C+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Education-Class_11_(Senior_Secondary)-05020a?style=flat-square&labelColor=05020a&color=a855f7&logo=google-academic&logoColor=c4b5fd" />
-<img src="https://img.shields.io/badge/Age-16_Years_Old-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=codeforces&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/Role-16_Year_Old_Developer-05020a?style=flat-square&labelColor=05020a&color=a855f7&logo=codeforces&logoColor=c4b5fd" />
+<img src="https://img.shields.io/badge/Education-Computer_Science-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=google-academic&logoColor=c4b5fd" />
 <img src="https://img.shields.io/badge/Location-India-05020a?style=flat-square&labelColor=05020a&color=ec4899&logo=googlemaps&logoColor=c4b5fd" />
 
 <br/><br/>
@@ -42,7 +42,7 @@
 ```yaml
 name: "Dhruvesh Dabhade"
 age: 16
-status: "Class 11 CS Student & Developer"
+status: "16-Year-Old Developer"
 based_in: "India"
 focus:
   - Building full-stack web applications & AI/ML tools
@@ -52,9 +52,9 @@ focus:
 philosophy: "Learn relentlessly, code with curiosity, build with passion."
 ```
 
-I'm a **16-year-old high school student developer** from India with a deep passion for computer science, software engineering, and artificial intelligence. I enjoy building modern full-stack web applications, exploring machine learning models, and turning ideas into clean, functional code.
+I'm a **16-year-old developer** from India with a deep passion for computer science, software engineering, and artificial intelligence. I enjoy building modern full-stack web applications, exploring machine learning models, and turning ideas into clean, functional code.
 
-When I'm not studying for school, I spend my time mastering technologies like **Python**, **JavaScript/TypeScript**, **React/Next.js**, **Node.js**, and **FastAPI**, while diving into algorithms, system design fundamentals, and open-source projects.
+When I'm not coding, I spend my time mastering technologies like **Python**, **JavaScript/TypeScript**, **React/Next.js**, **Node.js**, and **FastAPI**, while diving into algorithms, system design fundamentals, and open-source projects.
 
 **🎯 Open To**
 
