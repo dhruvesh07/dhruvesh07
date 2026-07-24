@@ -190,21 +190,8 @@ A hands-on systems project implementing low-level OS components including interr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&bg_color=05020a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed&border_radius=14&hide_border=false" />
 <img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&bg_color=05020a&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=14&hide_border=false" />
-
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvesh07&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </div>
 
 <img src="assets/divider.svg" width="100%" />
