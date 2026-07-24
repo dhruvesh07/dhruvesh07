@@ -116,48 +116,50 @@ When I'm not studying for school, I spend my time mastering technologies like **
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔮 Project One — Intelligent Recommendation Engine</b></summary>
+<summary><b>🛠️ EnvMan — CLI Environment Variable & Secret Manager</b></summary>
 <br/>
 
-A real-time, ML-powered recommendation system designed to serve personalized content, leveraging collaborative filtering and deep learning embeddings.
+A fast, lightweight CLI tool engineered for securely managing, encrypting, and syncing `.env` configuration files across development environments.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python, PyTorch, FastAPI, Redis, PostgreSQL, Docker |
-| **Performance** | Low-latency inference serving |
-| **Repository** | [github.com/dhruvesh07/project-one](https://github.com/dhruvesh07/project-one) |
+| **Stack** | Rust, CLI (Clap), AES-256-GCM, Docker |
+| **Features** | Encrypted config storage, environment diffing & instant sync |
+| **Repository** | [github.com/dhruvesh07/envman](https://github.com/dhruvesh07/envman) |
 
-Built as a recommendation microservice integrating a hybrid collaborative-filtering model served through a FastAPI layer with Redis caching.
+Designed to streamline local development workflows, EnvMan prevents credential leakage by keeping sensitive environment variables encrypted at rest with zero external runtime dependencies.
 
 </details>
 
 <details>
-<summary><b>⚡ Project Two — Distributed Task Orchestration Platform</b></summary>
+<summary><b>⚡ Synco — Low-Latency Real-Time State & Data Sync Engine</b></summary>
 <br/>
 
-A distributed job scheduling and orchestration tool supporting asynchronous workflows across microservices.
+A high-performance peer-to-peer and cloud data synchronization engine supporting real-time state updates across web applications.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Go, Kubernetes, Kafka, PostgreSQL, gRPC |
-| **Repository** | [github.com/dhruvesh07/project-two](https://github.com/dhruvesh07/project-two) |
+| **Stack** | TypeScript, Node.js, WebSockets, Redis, SQLite |
+| **Features** | Delta state synchronization, bi-directional event streams |
+| **Repository** | [github.com/dhruvesh07/synco](https://github.com/dhruvesh07/synco) |
 
-This project explores asynchronous task processing, queue retry mechanisms, and event streaming.
+Synco handles low-latency multi-client state syncing with automatic reconnect resolution, conflict handling, and lightweight WebSocket event broadcasting.
 
 </details>
 
 <details>
-<summary><b>🧠 Project Three — Full Stack SaaS Analytics Dashboard</b></summary>
+<summary><b>🧠 Core OS — Lightweight x86 Kernel & System Simulator</b></summary>
 <br/>
 
-An end-to-end web analytics platform featuring real-time dashboards and responsive user interface.
+An educational operating system kernel built from scratch to explore low-level systems programming, memory management, and hardware interactions.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS |
-| **Repository** | [github.com/dhruvesh07/project-three](https://github.com/dhruvesh07/project-three) |
+| **Stack** | C, Assembly (x86), QEMU, Makefile, GDB |
+| **Features** | Custom bootloader, memory paging, VGA text driver, basic shell |
+| **Repository** | [github.com/dhruvesh07/core-os](https://github.com/dhruvesh07/core-os) |
 
-A modern full-stack web application designed with Next.js App Router, Tailwind CSS, and MongoDB for structured data management.
+A hands-on systems project implementing low-level OS components including interrupt descriptor tables (IDT), basic paging, keyboard interrupt handling, and a custom CLI command shell.
 
 </details>
 
