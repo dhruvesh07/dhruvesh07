@@ -99,7 +99,7 @@
   <text x="600" y="155" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="58" font-weight="900" letter-spacing="3" fill="url(#textGrad)" filter="url(#neonGlow)">DHRUVESH DABHADE</text>
 
   <!-- Subtitle Tagline -->
-  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5" fill="#e9d5ff" opacity="0.9">Software Engineer · AI/ML Engineer · Full Stack Developer</text>
+  <text x="600" y="205" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5" fill="#e9d5ff" opacity="0.9">16-Year-Old Student Developer · Tech Enthusiast · Open Source Contributor</text>
 
   <!-- Animated Glowing Divider Bar -->
   <line x1="420" y1="240" x2="780" y2="240" stroke="url(#lineLight)" stroke-width="3" stroke-linecap="round">
@@ -108,5 +108,5 @@
   </line>
 
   <!-- Minimal Tech Badge Tags inside Header -->
-  <text x="600" y="275" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#a78bfa" opacity="0.8">⚡ Distributed Systems · Generative AI · Cloud Native ⚡</text>
+  <text x="600" y="275" text-anchor="middle" font-family="Fira Code, monospace" font-size="14" fill="#a78bfa" opacity="0.8">⚡ Full Stack Development · Machine Learning · Problem Solving ⚡</text>
 </svg>

@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 1200 36" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg" fill="none">
   <defs>
     <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ec4899" stop-opacity="0"/>
@@ -9,15 +9,13 @@
     </linearGradient>
 
     <filter id="divGlow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6"/>
+      <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="36" fill="#05020a" rx="6"/>
-
-  <line x1="0" y1="18" x2="1200" y2="18" stroke="url(#divGrad)" stroke-width="6" filter="url(#divGlow)" opacity="0.85">
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  <line x1="0" y1="4" x2="1200" y2="4" stroke="url(#divGrad)" stroke-width="4" filter="url(#divGlow)" opacity="0.85">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
   </line>
 
-  <line x1="0" y1="18" x2="1200" y2="18" stroke="url(#divGrad)" stroke-width="2"/>
+  <line x1="0" y1="4" x2="1200" y2="4" stroke="url(#divGrad)" stroke-width="1.5"/>
 </svg>
