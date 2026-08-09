@@ -12,11 +12,32 @@
 <img src="https://img.shields.io/badge/Education-Computer_Science-05020a?style=flat-square&labelColor=05020a&color=818cf8&logo=google-academic&logoColor=c4b5fd" />
 <img src="https://img.shields.io/badge/Location-India-05020a?style=flat-square&labelColor=05020a&color=ec4899&logo=googlemaps&logoColor=c4b5fd" />
 
+<br/><br/>
+
+<a href="http://dhruvex.wuaze.com">
+  <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
+</a>
+<a href="https://linkedin.com/in/dhruvesh07">
+  <img src="https://img.shields.io/badge/LinkedIn-05020a?style=for-the-badge&labelColor=05020a&color=818cf8&logo=linkedin&logoColor=c4b5fd" />
+</a>
+<a href="mailto:dabhadedhruvesh007@gmail.com">
+  <img src="https://img.shields.io/badge/Email-05020a?style=for-the-badge&labelColor=05020a&color=ec4899&logo=gmail&logoColor=c4b5fd" />
+</a>
+<a href="https://github.com/dhruvesh07">
+  <img src="https://img.shields.io/badge/GitHub-05020a?style=for-the-badge&labelColor=05020a&color=38bdf8&logo=github&logoColor=c4b5fd" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dhruvesh07&style=flat-square&color=a855f7&label=Profile+Views&labelColor=05020a" />
+<img src="https://img.shields.io/github/followers/dhruvesh07?style=flat-square&labelColor=05020a&color=818cf8&label=Followers&logo=github&logoColor=c4b5fd" />
+<img src="https://img.shields.io/github/stars/dhruvesh07?style=flat-square&labelColor=05020a&color=ec4899&label=Stars&logo=github&logoColor=c4b5fd" />
+
 </div>
 
-<div align="center">
-  <img src="assets/titles/about-me.svg" alt="About Me" />
-</div>
+<img src="assets/divider.svg" width="100%" />
+
+## 🧬 About Me
 
 ```yaml
 name: "Dhruvesh Dabhade"
@@ -46,9 +67,9 @@ When I'm not coding, I spend my time mastering technologies like **Python**, **J
 
 </div>
 
-<div align="center">
-  <img src="assets/titles/skills.svg" alt="Skills" />
-</div>
+<img src="assets/divider.svg" width="100%" />
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -74,20 +95,25 @@ When I'm not coding, I spend my time mastering technologies like **Python**, **J
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,grafana&theme=dark" />
 </div>
 
-<div align="center">
-  <img src="assets/titles/github-stats.svg" alt="GitHub Stats" />
-</div>
+<img src="assets/divider.svg" width="100%" />
+
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvesh07&show_icons=true&bg_color=05020a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&border_color=7c3aed&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvesh07&layout=compact&langs_count=8&bg_color=05020a&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&hide_border=true" alt="Top Languages" />
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **Machine Learning** | ⭐⭐⭐⭐ | Regression, classification, decision trees, scikit-learn models |
+| **Deep Learning** | ⭐⭐⭐⭐ | Neural networks, CNNs, PyTorch & TensorFlow fundamentals |
+| **NLP** | ⭐⭐⭐⭐ | Text processing, embeddings, RAG pipelines & LLM API integrations |
+| **Computer Vision** | ⭐⭐⭐ | Image processing, OpenCV, basic object detection |
+| **MLOps** | ⭐⭐⭐ | Model serving via FastAPI, Dockerized ML pipelines |
 
 </div>
 
-<div align="center">
-  <img src="assets/titles/projects.svg" alt="Projects" />
-</div>
+<img src="assets/divider.svg" width="100%" />
+
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🛠️ EnvMan — CLI Environment Variable & Secret Manager</b></summary>
@@ -137,23 +163,77 @@ A hands-on systems project implementing low-level OS components including interr
 
 </details>
 
-<div align="center">
-  <img src="assets/titles/heatmap.svg" alt="Heatmap" />
-</div>
+<img src="assets/divider.svg" width="100%" />
+
+## 💻 Coding Profiles
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" alt="GitHub Streak" />
+<a href="https://leetcode.com/dhruvesh07">
+  <img src="https://img.shields.io/badge/LeetCode-05020a?style=for-the-badge&labelColor=05020a&color=FFA116&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://geeksforgeeks.org/user/dhruvesh07">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-05020a?style=for-the-badge&labelColor=05020a&color=2F8D46&logo=geeksforgeeks&logoColor=2F8D46" />
+</a>
+<a href="https://hackerrank.com/dhruvesh07">
+  <img src="https://img.shields.io/badge/HackerRank-05020a?style=for-the-badge&labelColor=05020a&color=00EA64&logo=hackerrank&logoColor=00EA64" />
+</a>
+<a href="https://codechef.com/users/dhruvesh07">
+  <img src="https://img.shields.io/badge/CodeChef-05020a?style=for-the-badge&labelColor=05020a&color=a855f7&logo=codechef&logoColor=c4b5fd" />
+</a>
 
 </div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&bg_color=05020a&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity&title_color=c084fc" alt="Contribution Activity" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" />
+
 </div>
 
+<img src="assets/divider.svg" width="100%" />
+
+## 📈 Contribution Activity
+
 <div align="center">
-  <img src="assets/titles/connect.svg" alt="Connect" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvesh07&bg_color=05020a&color=c084fc&line=a855f7&point=ffffff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity&title_color=c084fc" />
 </div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/dhruvesh07/dhruvesh07/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+## 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Data Structures & Algorithms in C++ / Python
+    - Machine Learning fundamentals & PyTorch
+    - Next.js App Router & TypeScript
+  building:
+    - Full-stack web projects & interactive tools
+    - Open-source developer tools
+  exploring:
+    - Generative AI & RAG pipelines
+    - Cloud deployment with Docker
+  open_to:
+    - Open source collaboration
+    - Hackathons & coding competitions
+```
+
+<img src="assets/divider.svg" width="100%" />
+
+## 📬 Connect With Me
 
 <div align="center">
 
@@ -168,12 +248,6 @@ A hands-on systems project implementing low-level OS components including interr
 </a>
 <a href="http://dhruvex.wuaze.com">
   <img src="https://img.shields.io/badge/Portfolio-05020a?style=for-the-badge&labelColor=05020a&color=c084fc&logo=vercel&logoColor=c4b5fd" />
-</a>
-<a href="https://leetcode.com/dhruvesh07">
-  <img src="https://img.shields.io/badge/LeetCode-05020a?style=for-the-badge&labelColor=05020a&color=FFA116&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://geeksforgeeks.org/user/dhruvesh07">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-05020a?style=for-the-badge&labelColor=05020a&color=2F8D46&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
 
 </div>
