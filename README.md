@@ -1,14 +1,10 @@
 # dhruvesh07
 
-> Memorable developer positioning.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+<!-- Theme: GitHub | Style: Creative | Agent: Full-Stack Engineer -->
 
 <div align="center">
   <img src="assets/titles/header.svg" alt="Header" />
 </div>
-
-Hi, I'm **dhruvesh07**. This README is tuned for **personal brand** with a GitHub visual system.
 
 <p align="center">
   <picture>
@@ -64,6 +60,10 @@ Hi, I'm **dhruvesh07**. This README is tuned for **personal brand** with a GitHu
 <div align="center">
   <img src="assets/titles/heatmap.svg" alt="Heatmap" />
 </div>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=dhruvesh07&background=05020a&border=7c3aed&stroke=7c3aed&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideNums=e2e8f0&sideLabels=a855f7&currStreakNum=ffffff&dates=818cf8&border_radius=14" alt="GitHub Streak Stats" />
+</p>
 
 <div align="center">
   <img src="assets/titles/connect.svg" alt="Connect" />
